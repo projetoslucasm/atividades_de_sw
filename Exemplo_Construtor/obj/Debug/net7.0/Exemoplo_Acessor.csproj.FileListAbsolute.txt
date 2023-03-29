@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\bin\Debug\net7.0\Exemoplo_Acessor.exe
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\bin\Debug\net7.0\Exemoplo_Acessor.deps.json
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\bin\Debug\net7.0\Exemoplo_Acessor.runtimeconfig.json
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\bin\Debug\net7.0\Exemoplo_Acessor.dll
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\bin\Debug\net7.0\Exemoplo_Acessor.pdb
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\obj\Debug\net7.0\Exemoplo_Acessor.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\obj\Debug\net7.0\Exemoplo_Acessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\obj\Debug\net7.0\Exemoplo_Acessor.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\obj\Debug\net7.0\Exemoplo_Acessor.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\obj\Debug\net7.0\Exemoplo_Acessor.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\obj\Debug\net7.0\Exemoplo_Acessor.dll
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\obj\Debug\net7.0\refint\Exemoplo_Acessor.dll
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\obj\Debug\net7.0\Exemoplo_Acessor.pdb
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\obj\Debug\net7.0\Exemoplo_Acessor.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Exemoplo_Acessor\obj\Debug\net7.0\ref\Exemoplo_Acessor.dll
